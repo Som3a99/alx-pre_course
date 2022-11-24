@@ -1,2 +1,2 @@
 My first readme
-secind line 
+secand line 
